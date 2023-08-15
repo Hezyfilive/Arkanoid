@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - Padle
+  - DeathWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1995626035
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Score
+    uniqueID: 2861142367
+    locked: 0
+  - name: Ball
+    uniqueID: 3960130869
+    locked: 0
+  - name: Destroyable
+    uniqueID: 4104286159
+    locked: 0
+  - name: Paddle
+    uniqueID: 1252711193
+    locked: 0
+  - name: Wall
+    uniqueID: 3384921385
+    locked: 0
+  - name: Collectable
+    uniqueID: 3232970405
+    locked: 0
